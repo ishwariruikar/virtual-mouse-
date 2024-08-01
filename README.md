@@ -11,3 +11,13 @@ features :
 5. double cliick
 6. volume conntrol
 7. brightness control
+
+basic libraries used :
+1. open cv
+2. mediapipe
+3. numpy
+4. math
+5. handtracking
+6. time
+7. auto py
+8. os 
